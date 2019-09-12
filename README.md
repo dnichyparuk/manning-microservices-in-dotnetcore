@@ -1,0 +1,1 @@
+# manning-microservices-in-dotnetcore-master
